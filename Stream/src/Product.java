@@ -105,7 +105,13 @@ class Main {
     static List<Product> products = new ArrayList<>();
   
   // TODO: Main method to implement
-  
+    public static void main(String[] args) {
+    	init();
+    	System.out.println("Testing map...");
+    	customer1.getOrders().stream().map(Order::getItems).forEach(System.out::println);
+    }
+    
+    
   // Initialization in init method
   private static void init() {
         Product product = new Product();
