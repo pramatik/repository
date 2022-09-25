@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Technica Hack | Annaika, Lara, Pramati, Roshini
+    </title>
+    <link rel="stylesheet" href="/style.css" />
+   <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101277011);</script>
+<script async src="//static.getclicky.com/js"></script>
+
+<script src="/script.js" defer></script>
+  </head>
+
+  <body>
+    <script src="script.js">
+	</script>
+    <section class="above-the-fold">
+      <h1 class = "projectName"> women 4 women </h1>
+      <nav class="nav-bar">
+        <h1 class="title" onclick="window.location.href='index.html'"> </h1>
+        <ul class="nav-bar-options">
+          <a href="index.html"><button class = "option skincare first">HOME</button></a>
+        </ul>
+      </nav>
+
+      <section id = "hero-content">
+        <box class = "left">
+          <p class="hero-title">OUR<br>MISSION<br></p>
+          <p class="summary-text">
+            Our main objective is to,<br>encourage women to pursue entrepreneurship as a career</br>choice specifically in the state of Maryland as well as<br>offer resources to promote the growth of this career choice.</br> </p>
+                  <a href="index.html"><button class="shop-now-btn">LEARN MORE</button></a> 
+        </box>
+
+        <box class = "right">
+         <iframe
+          class="media-2"
+          width="750"
+          height="450"
+          src="https://www.gannett-cdn.com/presto/2021/03/07/USAT/ff38d016-ee9c-4872-b526-f0b5315a5b25-women_owned_businesses.jpg?auto=webp&crop=4779,2689,x0,y0&format=pjpg&width=1200"
+          frameborder="12"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+        </box>
+
+      </section>
+    </section>
+
+    <article class="below-the-fold">
+      <p class="media-title">--------</p>
+      <article class="media">
+        <img class = "graph" src = "https://assets.weforum.org/editor/XffXHPHxo_UlYqfnZABgfxef9ccf_tCTCQuEAjVUj4A.png">
+        <section class = "vera">
+        <p class = "media-title">INSPIRING WOMEN</p>
+        <br></br>
+        <img class = "vera-bradley" src = "https://s3.amazonaws.com/mentoring.redesign/s3fs-public/bradley_0.jpg"/>
+        <div class = "vera-text"> <br>Barbara Baekgaard and</br> <br>Patricia Miller both took their shared</br> <br>passion for luggage design and turned it </br> <br>into a $300 million business </br></div>
+        
+        </section>
+        <section class = "lori">
+          <img class = "lori-image" src = "https://jordanos.com/wp-content/uploads/2020/09/THE-DISH-LORIS.jpg"/>
+          <div class = "lori-text"> <br>In 2011, after </br><br>being fired from her job, Californian mom</br> <br>Lori Volk decided to start selling the </br><br>uniquely-flavored lemonade that she had</br><br> made for her kids when they were little.</br><br> Now, she has sold over 1 million bottles</br><br> all across the country</br> </div>
+        </section>
+        <section class = "businesses">
+          <h1 class = "businesses-title">FEMALE-OWNED BUSINESSES IN MARYLAND</h1>
+          <p class = "businesses-summary"> Here is an interactive map showing all the local female-owned businesses in the <br></br>Baltimore City area.<br></br> We hope that this map can help spread awareness and support for <br></br>female-owned businesses</p>
+        <button class="shop-now-btn" onclick="window.location.href='https://experience.arcgis.com/experience/6b465f9d76554be49962f6e7b2e0573d/';">Women & Minority Businesses</button> 
+        </section>
+      </article>
+    </article>
+    <script src="script.js">
+	</script>
+  </body>
+  
+</html>
