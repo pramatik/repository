@@ -1,0 +1,190 @@
+body {
+  font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+}
+
+.projectName{
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+  padding-bottom: 0px;
+  margin-top: 5%;
+  margin-bottom: 0%;
+}
+
+.graph{
+  width: 890px;
+  height: auto;
+}
+
+.media-title{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  height: 100px;
+  width:1000px;
+  margin: 0px;
+  margin: 0%;
+} 
+
+ul {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  text-align: center;
+  margin-bottom: 2px;
+  display: flex;
+  justify-content: space-between space-around center;
+}
+
+.hero-title {
+  font-size: 50px;
+}
+
+.summary-text {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.media-title {
+  font-size: 50px;
+  text-align: center;
+}
+
+button{
+  font-size: 25px;
+  width:1000px;
+  height: 50px;
+  background-color: white;
+  border: 0px;
+  font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+  margin: 5px;
+}
+
+.first:hover {
+  background-color: #d27979;
+  border-color: #d27979;
+  color: black;
+}
+
+.second:hover {
+  background-color: darkred;
+  border-color: darkred;
+  color: white;
+}
+
+.third:hover {
+  background-color: #660033;
+  border-color: #660033;
+  color: white;
+}
+
+.fourth:hover {
+  background-color: #ff6666;
+  border-color: #ff6666;
+  color: black;
+}
+
+.hero-content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+article {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  justify-content: space-around;
+  justify-content: center;
+}
+
+.banner{
+  width: 1250px;
+  height: auto;
+  object-fit: contain;
+  margin: 5px;
+}
+.square {
+  width: 400px;
+  height: auto;
+  object-fit: contain;
+  margin: 5px;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+box {
+  display: inline;
+  text-align: center;
+  
+}
+
+.shop-now-btn {
+  font-size: 40px;
+  border-size: 10px;
+  margin: 50px;
+  height: 120px;
+  width: 400px;
+  border: 2px solid black;
+}
+.shop-now-btn:hover {
+  background-color: black;
+  border-color: black;
+  color: white;
+}
+
+.media-2 {
+  margin: 50px;
+  width: 600px;
+  height: 400px;
+}
+
+.video {
+  width: 1000px;
+  height: 500px;
+  object-fit: contain;
+}
+
+.vera-bradley{
+  font-size: 30px;
+  opacity: 1;
+  transition: .5s ease;
+}
+
+.vera-text {
+  color: black;
+  font-size: 25px;
+  top: 50%;
+  margin-left: 5%;
+  margin-top: 2%;
+  text-align: center;
+}
+
+.lori-image{
+  margin-top: 5%;
+}
+
+.lori{
+  margin-right: 5%;
+}
+
+.lori-text{
+  text-align: center;
+  margin-top: 12%;
+  margin-left: 50px;
+  font-size: 20px;
+}
+
+.businesses-title{
+  font-size: 50px;
+  margin-right: 5%;
+}
+
+.businesses-summary{
+  text-align: center;
+  margin-left: 10%;
+  font-size: 30px;
+}
